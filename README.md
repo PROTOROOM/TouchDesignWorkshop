@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## PROTOROOMx Workshop
+PROTOROOMx 워크숍 시리즈는 디지털 매체를 OOO 하는 작가를 초대하고, 기술매체를 통한 작업의 과정을 이해하고 사유해보는 작업입니다.
 
-You can use the [editor on GitHub](https://github.com/PROTOROOM/TouchDesignWorkshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+이번 워크숍은
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PROTOROOM/TouchDesignWorkshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+가상 공간에서 오디오를 시각화하는 접근
