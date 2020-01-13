@@ -105,12 +105,24 @@ a {
   }
 }
 
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 100% 0;
+  }
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
   // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-image: url("/TouchDesignWorkshop/assets/2.png");
+  background-position: 0px 0px;
+  background-repeat: repeat-x;
+  animation: animatedBackground 10s linear infinite alternate;
 
   @include large {
     padding: 5rem 6rem;
