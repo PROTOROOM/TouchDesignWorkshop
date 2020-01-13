@@ -19,12 +19,12 @@ PROTOROOMx 워크숍 시리즈는 디지털 매체를 메타미디어로써 창�
  * 결과물을 영상으로 뽑아내기
 
 ## 일정
- * 1/22(수) ~ 1/23(목), 오후 2시-6시, 총 8시간
+ * **1/22(수) ~ 1/23(목), 오후 2시-6시, 총 8시간**
  * 장소 : PROTOROOM, 문래동 도림로 445 60-2 301호, 지도: <http://kko.to/rtJWF5KjT>
- * 인원 8명 : [참가신청서 forms.gle/2HBquBJHUi8sukWd7](https://forms.gle/2HBquBJHUi8sukWd7)
- * 참가비 : 8만원
+ * **인원 8명 : [참가신청서 forms.gle/2HBquBJHUi8sukWd7](https://forms.gle/2HBquBJHUi8sukWd7)**
+ * **참가비 : 8만원**
    * 참가신청 후 입금 순서대로 신청이 완료됩니다.
    * 참가비는 일부 다과비용을 제외하고 워크숍을 진행하는 작가의 강연료로 사용됩니다.
    * 등록 취소 시 환불정책은 다음과 같습니다: 하루 전까지 100%, 당일 50%
 
- * 워크숍 문의 : <protoroom@gmail.com>, 김승범 010-2686-6855
+ * 문의 : <protoroom@gmail.com>, 김승범 010-2686-6855
