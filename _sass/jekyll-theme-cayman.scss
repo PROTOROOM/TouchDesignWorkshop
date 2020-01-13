@@ -110,7 +110,7 @@ a {
     background-position: 0 0;
   }
   to {
-    background-position: 100% 0;
+    background-position: 0 100%;
   }
 }
 
@@ -121,8 +121,8 @@ a {
   // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-image: url("/TouchDesignWorkshop/assets/2.png");
   background-position: 0px 0px;
-  background-repeat: repeat-x;
-  animation: animatedBackground 10s linear infinite alternate;
+  background-repeat: repeat-y;
+  animation: animatedBackground 20s linear infinite alternate;
 
   @include large {
     padding: 5rem 6rem;
