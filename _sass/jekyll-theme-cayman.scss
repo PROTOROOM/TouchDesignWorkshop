@@ -122,7 +122,7 @@ a {
   background-image: url("/TouchDesignWorkshop/assets/2.png");
   background-position: 0px 0px;
   background-repeat: repeat-y;
-  animation: animatedBackground 60s linear infinite alternate;
+  animation: animatedBackground 90s linear infinite alternate;
 
   @include large {
     padding: 5rem 6rem;
