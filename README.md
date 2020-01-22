@@ -32,3 +32,6 @@
    * 등록 취소 시 환불정책은 다음과 같습니다: 하루 전까지 100%, 당일 50%
 
  * 문의 : <protoroom@gmail.com>
+
+## 워크숍 1일차
+ * 워크숍에 필요한 자료입니다 : <https://drive.google.com/drive/folders/1HycYvXgSYSlMrZa0A0Nlbx8D9dLchpmv>
