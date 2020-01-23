@@ -35,3 +35,7 @@
 
 ## 워크숍 1일차
  * 워크숍에 필요한 자료입니다 : <https://drive.google.com/drive/folders/1HycYvXgSYSlMrZa0A0Nlbx8D9dLchpmv>
+
+## 워크숍 2일차
+ * <https://drive.google.com/drive/folders/1NVBC44UzicWe-uCR9CkXBG-B2Z35G_wP>
+   * 1일차 워크숍에서 마지막 예제로 작업한 프로젝트를 확인할 수 있습니다.
